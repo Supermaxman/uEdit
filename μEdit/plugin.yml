@@ -1,0 +1,13 @@
+name: μEdit
+
+main: com.xegaming.uedit.uEdit
+
+version: 2.0
+
+description: μEdit
+
+commands:
+  //:
+    description:
+    usage: // [args]
+
